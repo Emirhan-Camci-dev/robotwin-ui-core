@@ -16,7 +16,7 @@ This is the **Community Edition (Open-Core)** licensed under AGPLv3.
 ## Enterprise Pro Edition
 Looking for 60 FPS 3D Digital Twin URDF/glTF rendering, WebRTC ultra-low-latency video, hardware E-Stop watchdogs, and multi-robot fleet switching?
 
-**[Upgrade to Enterprise Pro via Polar.sh](https://polar.sh/byemir)**
+[![Buy License](https://img.shields.io/badge/Polar.sh-Buy_License-9cf.svg)](https://buy.polar.sh/polar_cl_GuAj2hfp9UW0F9vIBRkudt8dRc80dN4uv1ObQ1jYeHv)
 *(Starting at $1,200/year per project/seat - Offline License validation included)*
 
 ## Quickstart
