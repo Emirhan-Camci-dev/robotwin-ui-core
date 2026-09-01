@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+
+    <!-- Community Edition (CE) does not use NativeAOT by default to keep dev-loop fast -->
+    <Version>1.0.0-ce</Version>
+    <Authors>Emirhan CAMCI</Authors>
+    <Company>RoboTwin Community</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Avalonia" Version="11.0.10" />
+    <PackageReference Include="Avalonia.Desktop" Version="11.0.10" />
+    <!-- ReactiveUI for MVVM controls -->
+    <PackageReference Include="Avalonia.ReactiveUI" Version="11.0.10" />
+  </ItemGroup>
+
+</Project>
